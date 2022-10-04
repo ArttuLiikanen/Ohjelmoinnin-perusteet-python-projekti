@@ -1,0 +1,7 @@
+Counter Strike case simulaattori
+
+Tällä ohjelmalla käyttäjä voi avata laatikoita joista hän saa inventaarioonsa satunnaisesti pelin erilaisia aseiden skinejä. Aseita voi myös myydä sekä inventaariota ja omaa tiliä voi tarkastella. 
+
+Aseiden hinnat ja todennäköisyydet eivät ole verrattavissa oikeisiin pelin esineisiin. En itse oikeastaan edes pelaa kyseistä peliä. Sain tämän idean veljeltäni, joka kertoi minulle myös enemmän siitä miten nämä skinit ylipäätänsä toimivat. Suurena inspiraationa projektiin oli mobiilipeli case clicker jota joskus aikoinaan pelasin.
+
+https://github.com/ArttuLiikanen/Ohjelmoinnin-perusteet-python-projekti
